@@ -1,0 +1,38 @@
+[33mcommit 4483317fbd4405285bbce401770ab567015c24d0[m
+Author: Pardeep <Pardeep>
+Date:   Sat Feb 6 18:00:15 2016 +0000
+
+    first file
+
+[33mcommit 9b69449c3375539431caac2c21ac29c3959ae2ef[m
+Merge: 44246a8 9b1140a
+Author: pardeepsachdeva <pardeepsachdeva@yahoo.com>
+Date:   Sat Feb 6 17:39:13 2016 +0000
+
+    Merge pull request #2 from pardeepsachdeva/task_02
+    
+    touch
+
+[33mcommit 9b1140adf9f6630ef0f3cba7700d46c94ec9bb6d[m
+Author: Pardeep <Pardeep>
+Date:   Sat Feb 6 17:25:56 2016 +0000
+
+    touch
+
+[33mcommit 44246a8fced0985edd34e57cee722529211fce11[m
+Author: Pardeep <Pardeep>
+Date:   Sat Feb 6 17:05:20 2016 +0000
+
+    first rev
+
+[33mcommit 093e18e56444368fe29b6b895fe356610ecfc916[m
+Author: pardeepsachdeva <pardeepsachdeva@yahoo.com>
+Date:   Sat Feb 6 17:00:41 2016 +0000
+
+    Create main.txt
+
+[33mcommit 3c7d13e4d8be24de1435515e2eb8eba78a59d66a[m
+Author: Pardeep <Pardeep>
+Date:   Sat Feb 6 16:55:14 2016 +0000
+
+    my first file
