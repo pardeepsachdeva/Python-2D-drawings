@@ -1,2 +1,0 @@
-This is touch01.txt rev 01
-This file is mofied in branch python
