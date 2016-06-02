@@ -10,8 +10,10 @@ root.config(menu=menu)
 
 subMenu=Menu(menu)
 menu.add_cascade(label="File",menu=subMenu)
-subMenu.add_command(label="New Project",command=doNothing)
 subMenu.add_command(label="New...",command=doNothing)
+subMenu.add_command(label="Save...",command=doNothing)
+subMenu.add_command(label="Save as...",command=doNothing)
+subMenu.add_command(label="Close...",command=doNothing)
 subMenu.add_separator()
 subMenu.add_command(label="Exit...",command=root.quit)
 
@@ -19,6 +21,14 @@ subMenu.add_command(label="Exit...",command=root.quit)
 editMenu=Menu(menu)
 menu.add_cascade(label="Edit",menu=editMenu)
 editMenu.add_command(label="Redo",command=doNothing)
+
+drawMenu=Menu(menu)
+menu.add_cascade(label="Draw",menu=drawMenu)
+drawMenu.add_command(label="Line",command=doNothing)
+drawMenu.add_command(label="Circle",command=doNothing)
+drawMenu.add_command(label="Rectangle",command=doNothing)
+
+
 
 #**********tool bar
 
